@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="id" type="id" />
+    <item name="nama" type="id" />
+    <item name="tahun" type="id" />
+    <item name="jurusan" type="id" />
+    <item name="aktif" type="id" />
+    <item name="kampus" type="id" />
+    <item name="submit" type="id" />
+</resources>
